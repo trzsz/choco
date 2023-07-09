@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>tssh</id>
+    <version>0.1.6</version>
+    <title>trzsz-ssh ( tssh )</title>
+    <authors>Lonny Wong</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://choosealicense.com/licenses/mit/</licenseUrl>
+    <projectUrl>https://trzsz.github.io/</projectUrl>
+    <projectSourceUrl>https://github.com/trzsz/trzsz-ssh</projectSourceUrl>
+    <packageSourceUrl>https://github.com/trzsz/choco/tree/main/tssh</packageSourceUrl>
+    <docsUrl>https://github.com/trzsz/trzsz-ssh</docsUrl>
+    <bugTrackerUrl>https://github.com/trzsz/trzsz-ssh/issues</bugTrackerUrl>
+    <releaseNotes>https://github.com/trzsz/trzsz-ssh/releases</releaseNotes>
+    <tags>trzsz-ssh tssh ssh ssh-client trzsz trz tsz rz sz</tags>
+    <summary>trzsz-ssh ( tssh ) is a simple ssh client with trzsz ( trz / tsz ) support.</summary>
+    <description>trzsz-ssh ( tssh ) is a simple ssh client with trzsz ( trz / tsz ) support. Please check https://github.com/trzsz/trzsz-ssh for more details.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

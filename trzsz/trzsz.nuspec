@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>trzsz</id>
+    <version>1.1.3</version>
+    <title>trzsz ( trz / tsz )</title>
+    <authors>Lonny Wong</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://choosealicense.com/licenses/mit/</licenseUrl>
+    <projectUrl>https://trzsz.github.io/</projectUrl>
+    <projectSourceUrl>https://github.com/trzsz/trzsz-go</projectSourceUrl>
+    <packageSourceUrl>https://github.com/trzsz/choco/tree/main/trzsz</packageSourceUrl>
+    <docsUrl>https://trzsz.github.io/</docsUrl>
+    <bugTrackerUrl>https://github.com/trzsz/trzsz-go/issues</bugTrackerUrl>
+    <releaseNotes>https://github.com/trzsz/trzsz-go/releases</releaseNotes>
+    <tags>trzsz trz tsz rz sz tmux zmodem</tags>
+    <summary>trzsz ( trz / tsz ) is a simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux.</summary>
+    <description>trzsz ( trz / tsz ) is a simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux.
+      Please check https://trzsz.github.io/ for more details.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
