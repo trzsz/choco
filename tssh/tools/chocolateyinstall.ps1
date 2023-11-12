@@ -1,10 +1,10 @@
 $ErrorActionPreference = 'Stop'
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$url32      = 'https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.12/tssh_0.1.12_windows_i386.zip'
-$url64      = 'https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.12/tssh_0.1.12_windows_x86_64.zip'
-$checksum32 = '51956109e30d15a69613e026bf492104f1366784fb7e6888a53e52f946707096'
-$checksum64 = '1cb3f58624141b8222be68d46904eb32a2ad393d02f1f7d45eebb4e88c2b1772'
+$url32      = 'https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.13/tssh_0.1.13_windows_i386.zip'
+$url64      = 'https://github.com/trzsz/trzsz-ssh/releases/download/v0.1.13/tssh_0.1.13_windows_x86_64.zip'
+$checksum32 = '03fe99609d1608956a1c8830aede7040056e844a3b8872d54a64409fec3c20ee'
+$checksum64 = '3a55ca2e108a1912cd550923bca6500b074412dc81e571dd0a267420b109765b'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
