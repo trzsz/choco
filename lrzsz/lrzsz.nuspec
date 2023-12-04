@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>lrzsz</id>
+    <version>0.12.21</version>
+    <title>lrzsz on Windows</title>
+    <authors>Chuck Forsberg, Matt Porter, mblack@csihq.com, Uwe Ohse</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://ohse.de/uwe/software/lrzsz.html</projectUrl>
+    <projectSourceUrl>https://github.com/UweOhse/lrzsz</projectSourceUrl>
+    <packageSourceUrl>https://github.com/trzsz/choco/tree/main/lrzsz</packageSourceUrl>
+    <tags>lrzsz rz sz zmodem</tags>
+    <summary>Tools for zmodem/xmodem/ymodem file transfer</summary>
+    <description>lrzsz is a unix communication package providing the XMODEM, YMODEM ZMODEM file transfer protocols.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
