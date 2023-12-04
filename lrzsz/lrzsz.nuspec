@@ -5,7 +5,7 @@
     <id>lrzsz</id>
     <version>0.12.21</version>
     <title>lrzsz on Windows</title>
-    <authors>Chuck Forsberg, Matt Porter, mblack@csihq.com, Uwe Ohse</authors>
+    <authors>Chuck Forsberg, Matt Porter, Mike Black, Uwe Ohse</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://ohse.de/uwe/software/lrzsz.html</projectUrl>
     <projectSourceUrl>https://github.com/UweOhse/lrzsz</projectSourceUrl>
