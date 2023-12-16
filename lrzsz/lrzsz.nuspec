@@ -5,6 +5,7 @@
     <id>lrzsz</id>
     <version>0.12.21</version>
     <title>lrzsz ( rz / sz )</title>
+    <owners>Lonny Wong</owners>
     <authors>Chuck Forsberg, Matt Porter, Mike Black, Uwe Ohse</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://ohse.de/uwe/software/lrzsz.html</projectUrl>
