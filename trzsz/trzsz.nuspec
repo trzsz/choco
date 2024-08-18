@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>trzsz</id>
-    <version>1.1.7</version>
+    <version>1.1.8</version>
     <title>trzsz ( trz / tsz )</title>
     <authors>Lonny Wong</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
